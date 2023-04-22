@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @vkulakra
-- 👀 I’m interested in ... App development
-- 🌱 I’m currently learning ... Flutter
-- 💞️ I’m looking to collaborate on ... Android App Development
+- 👋 Hi, I’m Vikas Lakra
+- 👀 I’m interested in ... Data Science
+- 🌱 I’m currently learning ... Data Science
+- 💞️ I’m looking to collaborate on ... Data Science Projects
 - 📫 How to reach me ... 
 - Email - vikaslakra@yahoo.co.uk
 - DM - instagram.com/vkulakra
 
-I'm just started learning flutter programming language and
+I'm just started learning data science and
 I'm ready to work at minimal cost where i can get experience and
 manage my personal expenses.
 
